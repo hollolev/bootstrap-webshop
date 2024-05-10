@@ -1,0 +1,18 @@
+
+.form-control{
+    width: 500px;
+}
+.form-check-label{
+    color: white;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+#form2{
+    margin-top: 150px;
+}
+#bejelentkezes{
+    color: white;
+}

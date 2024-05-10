@@ -1,0 +1,16 @@
+body{
+    background-color: rgba(33, 37, 41);
+}
+.card-title{
+    text-decoration: none;
+    color: black;
+}
+
+.div1{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    justify-content: center;
+    margin-top: 100px;
+    column-gap: 100px;
+    row-gap: 20px;
+}
